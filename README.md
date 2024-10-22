@@ -38,7 +38,7 @@ while True:
 print(f"Bilangan terbesar: {bilangan_max}")
 ```
 
-2. Untuk contoh output program:
+## Untuk contoh output program:
 ````markdown
 ```
 Masukan bilangan(0 untuk berhenti): 5
