@@ -1,7 +1,9 @@
 # 1.Mencari Bilangan Terbesar dari 3 Variabel
+
 Program sederhana untuk menentukan bilangan terbesar dari tiga angka yang diinputkan pengguna.
 
  ## Deskripsi Program
+ 
 Program ini akan:
 1. Meminta user memasukkan 3 bilangan berbeda
 2. Membandingkan ketiga bilangan tersebut
@@ -9,6 +11,7 @@ Program ini akan:
 4. Menampilkan hasilnya ke layar
 
 ## Flowchart Program
+
 ````mermaid
 flowchart TD
     A([Start]) --> B[/Input bilangan A,B,C/]
@@ -27,6 +30,7 @@ flowchart TD
 ````
 
 ## Kode Program
+
 ```Python
 a = int(input("Masukkan bilangan A: "))
 b = int(input("Masukkan bilangan B: "))
@@ -50,11 +54,17 @@ print(f"Bilangan terbesar adalah: {terbesar}")
 ```
 
 ## Untuk Contoh Output Program
-````markdown
 
+````markdown
+Masukkan bilangan A: 50
+Masukkan bilangan B: 65
+Masukkan bilangan C: 87
+Terbesar adalah C
+Bilangan terbesar adalah: 87
 ````
    
 ## Cara Kerja Program
+
 Program bekerja dengan algoritma:
 1. Menerima input 3 bilangan (A, B, C) dari user
 2. Melakukan pengecekan dengan urutan:
@@ -74,7 +84,7 @@ Program sederhana untuk mencari nilai terbesar dari sekumpulan bilangan yang dim
 
 ## Deskripsi Program
 
-Program ini dibuat menggunakan bahasa Python dengan fitur:
+Program ini akan:
 - Menggunakan while True untuk perulangan tak terbatas
 - Menggunakan break statement untuk menghentikan program
 - Membandingkan setiap input dengan nilai maksimum yang tersimpan
