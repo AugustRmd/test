@@ -85,7 +85,7 @@ Program sederhana untuk mencari nilai terbesar dari sekumpulan bilangan yang dim
 ## Deskripsi Program
 
 Program ini akan:
-- Menggunakan while True untuk perulangan tak terbatas
+- Menggunakan while True untuk perulangan
 - Menggunakan break statement untuk menghentikan program
 - Membandingkan setiap input dengan nilai maksimum yang tersimpan
 - Menampilkan bilangan terbesar yang ditemukan
