@@ -49,6 +49,7 @@ else:
         terbesar = b
     else:
         print("Terbesar adalah C")
+        terbesar = c
 
 print(f"Bilangan terbesar adalah: {terbesar}")
 ```
